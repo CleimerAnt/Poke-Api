@@ -107,4 +107,8 @@ function colorEstadistica(valor)
     {
         return '#EED535'
     }
+    else if(valor == 'normal')
+    {
+        return '#00B98E'
+    }
 }

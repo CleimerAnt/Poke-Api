@@ -99,6 +99,10 @@ function colorEstadistica(valor)
     {
         return '#EED535'
     }
+    else if(valor == 'normal')
+    {
+        return '#00B98E'
+    }
 }
 
 //En esta funcion se crean la mayoria de elementos HTML que tendra nuestra pagina
